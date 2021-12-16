@@ -1,0 +1,40 @@
+* {
+    background-image: url(https://blog.br.playstation.com/tachyon/sites/4/2020/09/Demons-Souls-featured-image.jpg?resize=1088%2C612&crop_strategy=smart);
+    
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
+}
+.dotted {
+    border-style: dotted;
+    border-color: orange;
+    border-width: 1px;
+    border-radius: 10px;
+}
+.dashed {
+    border-style: dashed;
+    border-color:blue;
+    border-width: 4px;
+    text-align: center;
+}
+.solid {
+    border-style: solid;
+    border-color: purple;
+    border-width: 12px;
+    border-radius: 30px;
+    text-align: center;
+}
+.double {
+    border-style: double;
+    border-color: silver;
+    border-width: 10px;
+    text-align: center;
+    
+}
+.none {
+    border-style: none;
+    border-color: blue;
+    border-width: 30px;
+    border-radius: 50px;
+}
